@@ -22,23 +22,21 @@
 - Goal: grow into a responsible **AI practitioner**
 
 ---
-
 ## Connect with Me
 
 <p align="center">
   <a href="https://t.me/syn_c03" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
   <a href="https://medium.com/@thantsintun333" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/thant-sin-tun-252238316" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
