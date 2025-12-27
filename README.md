@@ -22,7 +22,7 @@
   <a href="https://facebook.com/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
   </a>
-  <a href="https://t.me/" target="_blank">
+  <a href="https://t.me/syn_c03" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
   </a>
   <a href="linkedin.com/in/thant-sin-tun-252238316" target="_blank">
