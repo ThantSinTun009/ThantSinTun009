@@ -42,7 +42,7 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,r,sql,tensorflow,sklearn,vscode,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,r,mysql,tensorflow,sklearn,vscode,git&perline=7" />
 </p>
 
 ---
