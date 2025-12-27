@@ -50,9 +50,9 @@
 ## 🚀 Focus Areas
 
 - 🤖 Machine Learning & AI
-- 📊 Data Analysis & Visualization
+- 📊 Natural Language Processing (NLP)
 - 🧠 Statistics & Algorithms
-- 🛠 Beginner-friendly Python Projects
+- 🛠 Real-world impact projects
 
 ---
 
