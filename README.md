@@ -38,27 +38,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,go,tensorflow,sklearn,vscode,git,linux"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThantSinTun&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThantSinTun&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThantSinTun&theme=tokyo-night"/>
-</p>
-
----
+--- 
 
 ## 🚀 Popular Repositories
 
