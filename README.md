@@ -15,11 +15,11 @@
 
 ## About Me
 
-- 🔥 Passionate about **building intelligent systems**
-- 🤖 Interested in **Machine Learning, Data Science & AI Ethics**
-- 📚 Currently learning **Python, ML algorithms & statistics**
-- 🌱 Self-taught learner who enjoys solving **real-world problems**
-- 🎯 Goal: grow into a responsible **AI practitioner**
+- Passionate about **building intelligent systems**
+- Interested in **Machine Learning, Data Science & AI**
+- Currently learning **Python, ML algorithms & statistics**
+- Self-taught learner who enjoys solving **real-world problems**
+- Goal: grow into a responsible **AI practitioner**
 
 ---
 
@@ -46,10 +46,10 @@
 
 ## Focus Areas
 
-- 🤖 Machine Learning & AI
-- 📊 Natural Language Processing (NLP)
-- 🧠 Statistics & Algorithms
-- 🛠 Real-world impact projects
+- Machine Learning & AI
+- Natural Language Processing (NLP)
+- Statistics & Algorithms
+- Real-world impact projects
 
 ---
 
