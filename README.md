@@ -16,7 +16,7 @@
 ## About Me
 
 - Passionate about **building intelligent systems**
-- Interested in **Machine Learning, Data Science & AI**
+- Interested in **Machine Learning, Deep Learning & Neural Networks**
 - Currently learning **Python, ML algorithms & statistics**
 - Self-taught learner who enjoys solving **real-world problems**
 - Goal: grow into a responsible **AI practitioner**
