@@ -17,7 +17,7 @@
 
 - Passionate about **building intelligent systems**
 - Interested in **Machine Learning, Deep Learning & Neural Networks**
-- Currently learning **Python, ML algorithms & statistics**
+- Currently learning **ML algorithms & Deep Learning architectures**
 - Self-taught learner who enjoys solving **real-world problems**
 - Goal: grow into a responsible **AI practitioner**
 
