@@ -79,10 +79,6 @@
     </tr>
 </table>
 
-<a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ThantSinTun009&theme=dark&hide_border=true" alt="GitHub Streak" />
-</a>
-
 ---
 
 <div align="center">
