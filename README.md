@@ -50,15 +50,18 @@
 
 ## Focus Areas
 
-- Machine Learning & AI
+- Machine Learning, Deep Learning & AI
 - Natural Language Processing (NLP)
 
 ---
 
 ### 🎓 Certifications & Courses
-- **Machine Learning Specialization** — Coursera  
-  *Instructor:* Andrew Ng  
-  *Certificate:* [View Certificate](https://coursera.org/verify/specialization/87XBJ2ZSNRS7)
+
+<img src="assets/coursera-ml-certificate.jpg" width="500"/>
+
+**Machine Learning Specialization** — Coursera  
+*Instructor:* Andrew Ng • **Completed** ✅
+*Verification:* [View Certificate](https://coursera.org/verify/specialization/87XBJ2ZSNRS7)
 
 ---
 
