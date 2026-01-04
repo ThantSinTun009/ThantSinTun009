@@ -1,4 +1,4 @@
-<img width="791" height="556" alt="image" src="https://github.com/user-attachments/assets/15de9965-773f-418a-8009-494bb2c37271" /><h1 align="center">Hi there 👋 I'm Thant Sin Tun</h1>
+<h1 align="center">Hi there 👋 I'm Thant Sin Tun</h1>
 <p align="center">
   <b>Self-taught Data Scientist • AI & Machine Learning Enthusiast</b>
 </p>
