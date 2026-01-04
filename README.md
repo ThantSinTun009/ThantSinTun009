@@ -62,18 +62,14 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=percentile&token=YOUR_TOKEN_HERE" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=percentile&token=Token" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true&token=YOUR_TOKEN_HERE" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThantSinTun009&theme=tokyonight" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true&token=Token" />
     </td>
   </tr>
 </table>
+
 
 
 <table>
