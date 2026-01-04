@@ -17,7 +17,7 @@
 
 - Passionate about **building intelligent systems**
 - Interested in **Machine Learning, Deep Learning & Neural Networks**
-- Currently learning **Python, ML algorithms, Time-series analysis and Deep Learning architectures**
+- Currently learning **Python, ML algorithms, Time-series Analysis and Deep Learning architectures**
 - Self-taught learner who enjoys solving **real-world problems**
 - Goal: grow into a responsible **AI practitioner**
 
@@ -52,8 +52,6 @@
 
 - Machine Learning & AI
 - Natural Language Processing (NLP)
-- Statistics & Algorithms
-- Real-world impact projects
 
 ---
 
@@ -62,26 +60,13 @@
 <!-- <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=percentile&token=Token" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true&token=Token" />
-    </td>
-  </tr>
-</table> -->
-
-<table>
-  <tr>
-    <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=percentile" />
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true" />
     </td>
   </tr>
-</table>
-
-
+</table> -->
 
 <table>
     <tr>
