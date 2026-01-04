@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 </p>
 
 <p align="center">
@@ -52,6 +52,13 @@
 
 - Machine Learning & AI
 - Natural Language Processing (NLP)
+
+---
+
+### 🎓 Certifications & Courses
+- **Machine Learning Specialization** — Coursera  
+  *Instructor:* Andrew Ng  
+  *Certificate:* [View Certificate]([https://coursera.org/verify/specialization/87XBJ2ZSNRS7])
 
 ---
 
