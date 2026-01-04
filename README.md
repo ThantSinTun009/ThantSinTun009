@@ -65,7 +65,7 @@
       Coursera • Instructor: Andrew Ng • Completed ✅
     </td>
     <td align="center">
-      <img src="assets/google-ada-certificate.jpg" width="300"/><br/>
+      <img src="assets/google-ada-certificate.jpg" width="200"/><br/>
       <b>Advanced Data Analytics</b><br/>
       Google • Completed ✅
     </td>
