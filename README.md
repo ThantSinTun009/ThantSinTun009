@@ -62,6 +62,17 @@
 <table>
     <tr>
         <td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=percentile"/>
+        </td>
+        <td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true"/>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>
             <img align="center" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
         </td>
         <td>
