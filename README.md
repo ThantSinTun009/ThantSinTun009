@@ -55,7 +55,7 @@
 
 ---
 
-#### GitHub Activity & Stats
+## GitHub Activity & Stats
 
 <!-- <table>
   <tr>
