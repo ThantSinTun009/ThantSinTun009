@@ -42,9 +42,12 @@
 
 ## Languages, ML Frameworks & Tools
 
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.svg"
-     height="48"
-     style="background:#111827; padding:8px; border-radius:12px;" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,tensorflow,sklearn,vscode,git&perline=7" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-🦜🔗-green?style=for-the-badge" />
+</p>
+
 
 
 ---
