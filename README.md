@@ -44,10 +44,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,postgres,tensorflow,sklearn,vscode,git&perline=7" />
+  <img src="https://img.shields.io/badge/LangChain-🦜🔗-green?style=for-the-badge" />
+
 </p>
-
-<img src="https://img.shields.io/badge/LangChain-🦜🔗-green?style=for-the-badge" />
-
 
 ---
 
