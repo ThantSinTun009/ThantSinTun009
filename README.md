@@ -43,7 +43,7 @@
 ## Languages, ML Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,tensorflow,sklearn,vscode,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,tensorflow, langchain,sklearn,vscode,git&perline=7" />
 </p>
 
 ---
