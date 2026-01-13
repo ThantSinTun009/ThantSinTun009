@@ -26,18 +26,17 @@
 
 <p align="center">
   <!-- Top row -->
-  <a href="mailto:thantsintun333@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
- <a href="https://linkedin.com/in/thant-sin-tun-252238316" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
   <a href="https://discordapp.com/users/thant_syn_tun" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
 
+  <a href="https://medium.com/@thantsintun333" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:thantsintun333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -46,13 +45,10 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://medium.com/@thantsintun333" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>&nbsp;&nbsp;
-
-
+  <a href="https://linkedin.com/in/thant-sin-tun-252238316" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
 
 ---
 
@@ -63,9 +59,6 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/LangChain-🦜🔗-green?style=for-the-badge" />
 </p>
-
-
-
 
 ---
 
