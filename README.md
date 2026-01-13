@@ -28,6 +28,10 @@
   <a href="https://t.me/syn_c03" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
+  
+  <a href="https://discordapp.com/users/thant_syn_tun" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 
   <a href="https://medium.com/@thantsintun333" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
@@ -35,10 +39,6 @@
 
   <a href="https://linkedin.com/in/thant-sin-tun-252238316" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://discordapp.com/users/thant_syn_tun" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
 </p>
