@@ -76,8 +76,7 @@
     <td align="center" width="33%">
       <img src="assets/coursera-ml-certificate.jpg" width="300" alt="Machine Learning Specialization"/><br/><br/>
       <b>Machine Learning<br/>Specialization</b><br/><br/>
-      Coursera · Andrew Ng ·<br/>
-      Completed ✅
+      Coursera · Completed ✅
     </td>
     <td align="center" width="33%">
       <img src="assets/google-ada-certificate.jpg" width="130" alt="Advanced Data Analytics"/><br/><br/>
