@@ -13,7 +13,13 @@
 
 ---
 
-<img width="1128" height="191" alt="DS Associate - LinkedIn" src="https://github.com/user-attachments/assets/9881dcb6-3e60-449c-a987-cebbb1a2b088" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/9881dcb6-3e60-449c-a987-cebbb1a2b088"
+    alt="Data Scientist Associate – DataCamp"
+    width="70%"
+  />
+</p>
 
 ---
 
