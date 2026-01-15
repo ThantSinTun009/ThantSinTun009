@@ -1,4 +1,4 @@
-<img width="300" height="100" alt="DS Associate - Twitter" src="https://github.com/user-attachments/assets/04989f1d-d3e2-4d88-a98d-68f08366673a" />
+<img width="500" height="180" alt="DS Associate - Twitter" src="https://github.com/user-attachments/assets/04989f1d-d3e2-4d88-a98d-68f08366673a" />
 
 <h1 align="center">Hi there 👋 I'm Thant Sin Tun</h1>
 <p align="center">
