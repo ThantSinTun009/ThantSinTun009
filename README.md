@@ -74,18 +74,18 @@
 <table width="100%" align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="assets/coursera-ml-certificate.jpg" width="240" alt="Machine Learning Specialization"/><br/><br/>
+      <img src="assets/coursera-ml-certificate.jpg" width="300" alt="Machine Learning Specialization"/><br/><br/>
       <b>Machine Learning<br/>Specialization</b><br/><br/>
       Coursera · Andrew Ng ·<br/>
       Completed ✅
     </td>
     <td align="center" width="33%">
-      <img src="assets/google-ada-certificate.jpg" width="150" alt="Advanced Data Analytics"/><br/><br/>
+      <img src="assets/google-ada-certificate.jpg" width="130" alt="Advanced Data Analytics"/><br/><br/>
       <b>Advanced Data Analytics</b><br/><br/>
       Google · Completed ✅
     </td>
     <td align="center" width="33%">
-      <img src="assets/ds_associate.png" width="150" alt="Data Scientist Associate"/><br/><br/>
+      <img src="assets/ds_associate.png" width="130" alt="Data Scientist Associate"/><br/><br/>
       <b>Data Scientist Associate</b><br/><br/>
       DataCamp · Certified ✅
     </td>
@@ -109,14 +109,14 @@
   </tr>
 </table> -->
 
-<table>
+<table align="center">
     <tr>
         <td>
             <img align="center" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
         </td>
-        <td>
+        <!-- <td>
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true" />
-        </td>
+        </td> -->
     </tr>
 </table>
 
