@@ -3,16 +3,9 @@
   <b>Self-taught Data Scientist • AI & Machine Learning Enthusiast</b>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-    </td>
-    <td align="center">
-      <img src="assets/ds_associate.png" width="200" alt="Data Scientist Associate Badge"/><br/><br/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+</p>
 
 <p align="center">
   <i>Turning data into insight, curiosity into skill.</i>
