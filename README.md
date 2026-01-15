@@ -13,9 +13,11 @@
 
 ---
 
-## About Me
-
 <img width="1128" height="191" alt="DS Associate - LinkedIn" src="https://github.com/user-attachments/assets/9881dcb6-3e60-449c-a987-cebbb1a2b088" />
+
+---
+
+## About Me
 
 - Passionate about **building intelligent systems**
 - Interested in **Machine Learning, Deep Learning & Neural Networks**
