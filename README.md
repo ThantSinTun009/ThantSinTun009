@@ -71,25 +71,29 @@
 
 ### 🎓 Certifications & Courses
 
-<table align="center">
+<h2>🎓 Certifications & Courses</h2>
+
+<table width="100%" align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="assets/coursera-ml-certificate.jpg" width="220" alt="Machine Learning Specialization"/><br/>
-      <b>Machine Learning Specialization</b><br/>
-      Coursera · Andrew Ng · Completed ✅
+      <img src="assets/coursera-ml-certificate.jpg" width="240" alt="Machine Learning Specialization"/><br/><br/>
+      <b>Machine Learning<br/>Specialization</b><br/><br/>
+      Coursera · Andrew Ng ·<br/>
+      Completed ✅
     </td>
     <td align="center" width="33%">
-      <img src="assets/google-ada-certificate.jpg" width="220" alt="Google Advanced Data Analytics"/><br/>
-      <b>Advanced Data Analytics</b><br/>
+      <img src="assets/google-ada-certificate.jpg" width="240" alt="Advanced Data Analytics"/><br/><br/>
+      <b>Advanced Data Analytics</b><br/><br/>
       Google · Completed ✅
     </td>
     <td align="center" width="33%">
-      <img src="assets/ds_associate.png" width="200" alt="Data Scientist Associate"/><br/>
-      <b>Data Scientist Associate</b><br/>
+      <img src="assets/ds_associate.png" width="240" alt="Data Scientist Associate"/><br/><br/>
+      <b>Data Scientist Associate</b><br/><br/>
       DataCamp · Certified ✅
     </td>
   </tr>
 </table>
+
 
 
 ---
