@@ -84,7 +84,7 @@
       Google · Completed ✅
     </td>
     <td align="center" width="33%">
-      <img src="assets/ds_associate.png" width="220" alt="Data Scientist Associate"/><br/>
+      <img src="assets/ds_associate.png" width="200" alt="Data Scientist Associate"/><br/>
       <b>Data Scientist Associate</b><br/>
       DataCamp · Certified ✅
     </td>
