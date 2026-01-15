@@ -12,8 +12,6 @@
     </td>
     <td align="center">
       <img src="assets/ds_associate.png" width="140" alt="Data Scientist Associate Badge"/><br/><br/>
-      <b>Data Scientist Associate</b><br/>
-      DataCamp · Certified ✅
     </td>
   </tr>
 </table>
