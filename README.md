@@ -11,8 +11,7 @@
     <td align="center" width="40">
     </td>
     <td align="center">
-      <img src="assets/ds_associate.png" width="100" alt="Data Scientist Associate Badge"/><br/><br/>
-      <b>Data Scientist Associate</b><br/>
+      <img src="assets/ds_associate.png" width="200" alt="Data Scientist Associate Badge"/><br/><br/>
     </td>
   </tr>
 </table>
