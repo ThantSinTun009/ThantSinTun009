@@ -95,8 +95,6 @@
   </tr>
 </table>
 
-
-
 ---
 
 ## GitHub Activity & Stats
@@ -112,16 +110,20 @@
   </tr>
 </table> -->
 
-<table align="center">
+<!-- <table align="center">
     <tr>
         <td>
             <img align="center" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
         </td>
-        <!-- <td>
+        <td>
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true" />
-        </td> -->
+        </td>
     </tr>
-</table>
+</table> -->
+
+<div align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
+</div>
 
 ---
 
