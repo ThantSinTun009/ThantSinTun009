@@ -68,14 +68,14 @@
   <img src="https://img.shields.io/badge/MLOps-Model%20Lifecycle-orange?style=for-the-badge" />
 </p>
 
-
-
 ---
 
 ## Focus Areas
 
-- Machine Learning, Deep Learning & AI
-- Natural Language Processing (NLP)
+- Machine Learning, Deep Learning & Artificial Intelligence
+- Natural Language Processing (NLP) & LLMs
+- Retrieval-Augmented Generation (RAG)
+- MLOps & Model Lifecycle Management
 
 ---
 
