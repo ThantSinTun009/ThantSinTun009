@@ -19,11 +19,11 @@
 
 ## About Me
 
-- Passionate about **building intelligent systems**
-- Interested in **Machine Learning, Deep Learning & Neural Networks**
-- Currently learning **Python, ML algorithms, Time-series Analysis and Deep Learning architectures**
-- Self-taught learner who enjoys solving **real-world problems**
-- Goal: grow into a responsible **AI practitioner**
+Passionate about building intelligent systems with interests in Machine Learning, Deep Learning, and Neural Networks.  
+
+Currently learning Python, ML algorithms, time-series analysis, and deep learning architectures.  
+
+A self-driven learner aiming to become a responsible AI practitioner.
 
 ---
 ## Connect with Me
