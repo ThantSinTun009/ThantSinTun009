@@ -127,9 +127,18 @@ A self-driven learner aiming to become a responsible AI practitioner.
     </tr>
 </table> -->
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
+</div> -->
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
+  <br><br>
+  <a href="https://www.hackerrank.com/@thantsintun333">
+    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank"/>
+  </a>
 </div>
+
 
 ---
 
