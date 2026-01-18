@@ -30,7 +30,7 @@ A self-driven learner aiming to become a responsible AI practitioner.
 <!-- Profile Views Counter with Animation -->
 <div align='center'>
   
-<img src="https://komarev.com/ghpvc/?username=ThantSinTun009&label=PROFILE+VIEWS&style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=ThantSinTun009&label=PROFILE+VIEWS&style=for-the-badge&color=0d1117" />
 
 <img src="https://img.shields.io/github/followers/ThantSinTun009?label=FOLLOWERS&style=for-the-badge&labelColor=0d1117&color=1a293f" />
 
