@@ -106,31 +106,18 @@ A self-driven learner aiming to become a responsible AI practitioner.
 
 ## GitHub Activity & Stats
 
-<!-- <table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=percentile" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true" />
-    </td>
-  </tr>
-</table> -->
+<!-- Overall stats -->
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThantSinTun009&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-<!-- <table align="center">
-    <tr>
-        <td>
-            <img align="center" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
-        </td>
-        <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true" />
-        </td>
-    </tr>
-</table> -->
+<!-- Streak stats -->
+<p>
+  <img height="200" src="https://streak-stats.demolab.com?user=ThantSinTun009&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
 
-<!-- <div align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
-</div> -->
+---
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
