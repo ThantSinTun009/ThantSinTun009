@@ -106,18 +106,10 @@ A self-driven learner aiming to become a responsible AI practitioner.
 
 ## GitHub Activity & Stats
 
-<table>
-  <tr>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThantSinTun009&layout=compact&theme=tokyonight" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<div align="center"> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+</div>
 
-<br/><br/>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
@@ -126,7 +118,6 @@ A self-driven learner aiming to become a responsible AI practitioner.
     <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank"/>
   </a>
 </div>
-
 
 ---
 
