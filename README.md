@@ -107,23 +107,19 @@ A self-driven learner aiming to become a responsible AI practitioner.
 ## GitHub Activity & Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap" alt="LeetCode Card"/>
-      </td>
-    </tr>
-  </table>
-</div>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+</div> 
 
-<br><br>
-
-<a align='center' href="https://www.hackerrank.com/thantsintun333">
-  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
-</a>
+<div align="center"> 
+  <img src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/> 
+  
+  <br><br>
+  
+  <a href="https://www.hackerrank.com/thantsintun333">
+    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank"/> 
+  </a> 
+  
+</div>>
 
 ---
 
