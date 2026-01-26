@@ -113,7 +113,7 @@ A self-driven learner aiming to become a responsible AI practitioner.
 ---
 
 <div align="center"> 
-  <img height="180" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/> 
+  <img height="400" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/> 
 </div>
 
 ---
