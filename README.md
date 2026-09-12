@@ -136,14 +136,14 @@ src= https://camo.githubusercontent.com/2b5dccad44d0508888b9c7bd80c92b385f5c6a93
 ### 🗓️ Contributions Calendar
 
 <!-- Streak stats -->
-<div align='center'>
+<!-- <div align='center'>
 <p>
   <img height="200" src="https://streak-stats.demolab.com?user=ThantSinTun009&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 </div>
 
 
-[![ThantSinTun009's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThantSinTun009&theme=github-dark)](https://github.com/ThantSinTun009)
+[![ThantSinTun009's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThantSinTun009&theme=github-dark)](https://github.com/ThantSinTun009) -->
 
 
 ---
